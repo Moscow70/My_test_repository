@@ -10,4 +10,8 @@ managing modification of files
 
 new branch
 
-new conflict branch
+<<<<<<< HEAD
+new conflict fixed branch
+=======
+new conflict fixed branch
+>>>>>>> feature1
