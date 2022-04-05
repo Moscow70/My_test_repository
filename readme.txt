@@ -18,3 +18,5 @@ new conflict fixed branch
 
 
 managing branch
+
+bug managing done
