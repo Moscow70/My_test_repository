@@ -15,3 +15,6 @@ new conflict fixed branch
 =======
 new conflict fixed branch
 >>>>>>> feature1
+
+
+managing branch
