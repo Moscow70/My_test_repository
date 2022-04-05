@@ -6,4 +6,4 @@ modifying
 
 working space
 
-managing modification
+managing modification of files
